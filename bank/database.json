@@ -1,0 +1,11 @@
+{
+    "accounts": [
+        {
+            "username": "matan",
+            "password": "123123123",
+            "id": 1,
+            "balance": 4
+        }
+    ],
+    "index": 2
+}
